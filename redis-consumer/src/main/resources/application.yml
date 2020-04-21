@@ -1,7 +1,7 @@
 server:
   servlet:
     context-path: /
-  port: 8008
+  port: 9009
 logging:
   level:
     root: INFO
